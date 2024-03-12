@@ -19,17 +19,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_Print_Revers", "06_Print
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_PrintWord", "07_PrintWord\07_PrintWord.csproj", "{2DB54AAB-BD73-4140-BF02-E8320D3A6883}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_SborGlasni", "08_SborGlasni\08_SborGlasni.csproj", "{53CF576C-1C16-4B5B-8624-8B0FC48C8E51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_SborGlasni", "08_SborGlasni\08_SborGlasni.csproj", "{53CF576C-1C16-4B5B-8624-8B0FC48C8E51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_SborChetni", "09_SborChetni\09_SborChetni.csproj", "{9934985A-793C-49E7-A6F6-666666A58EA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_SborChetni", "09_SborChetni\09_SborChetni.csproj", "{9934985A-793C-49E7-A6F6-666666A58EA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_SumEnd_Of_7", "10_SumEnd_Of_7\10_SumEnd_Of_7.csproj", "{A4C207E7-6987-4C52-A6E5-1B9E1383DC4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_SumEnd_Of_7", "10_SumEnd_Of_7\10_SumEnd_Of_7.csproj", "{A4C207E7-6987-4C52-A6E5-1B9E1383DC4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_SumN_Chilsa", "11_SumN_Chilsa\11_SumN_Chilsa.csproj", "{0804F0E6-829E-416C-8DDB-6EFC909B40AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_SumN_Chilsa", "11_SumN_Chilsa\11_SumN_Chilsa.csproj", "{0804F0E6-829E-416C-8DDB-6EFC909B40AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_PrintMax", "12_PrintMax\12_PrintMax.csproj", "{9FDBB4D3-AE6B-4EE7-B03A-CC78BA37FD18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_PrintMax", "12_PrintMax\12_PrintMax.csproj", "{9FDBB4D3-AE6B-4EE7-B03A-CC78BA37FD18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_PrintMin", "13_PrintMin\13_PrintMin.csproj", "{5CC179DB-4A61-4EAE-996D-3BF527F33BEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_PrintMin", "13_PrintMin\13_PrintMin.csproj", "{5CC179DB-4A61-4EAE-996D-3BF527F33BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema14_Zad2", "Tema14_Zad2\Tema14_Zad2.csproj", "{A99A7422-4DF2-43ED-920B-80D604B92008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema14_Zad5", "Tema14_Zad5\Tema14_Zad5.csproj", "{FD5F9A66-039E-470F-B0A6-50D075772D8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{5CC179DB-4A61-4EAE-996D-3BF527F33BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CC179DB-4A61-4EAE-996D-3BF527F33BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CC179DB-4A61-4EAE-996D-3BF527F33BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A99A7422-4DF2-43ED-920B-80D604B92008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99A7422-4DF2-43ED-920B-80D604B92008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99A7422-4DF2-43ED-920B-80D604B92008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99A7422-4DF2-43ED-920B-80D604B92008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5F9A66-039E-470F-B0A6-50D075772D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5F9A66-039E-470F-B0A6-50D075772D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5F9A66-039E-470F-B0A6-50D075772D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5F9A66-039E-470F-B0A6-50D075772D8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
