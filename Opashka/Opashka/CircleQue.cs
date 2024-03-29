@@ -10,7 +10,9 @@ namespace Opashka
     {
         private const int DefaultCapacity = 4;
         public int Count { get; private set; }
+
         private T[] elements;
+
         int startIndex = 0;
         int endIndex = 0;
        
